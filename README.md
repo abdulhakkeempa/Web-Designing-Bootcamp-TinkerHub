@@ -1,4 +1,4 @@
-# Web Designing Bootcamp - Cucek
+# Web Designing Bootcamp - TinkerHub 
 
 ## System Requirements
 Any system with any operating system are capable of doing web designing , a lighter configuration will also do the job well.  
@@ -10,5 +10,5 @@ Any system with any operating system are capable of doing web designing , a ligh
 <p float="left">
 <img src="https://github.com/hakkeempa/hakkeempa.github.io/blob/main/images/html.png" width="100">
 <img src="https://github.com/hakkeempa/hakkeempa.github.io/blob/main/images/css.png" width="100">
-<img src="https://github.com/hakkeempa/hakkeempa.github.io/blob/main/images/js.png" width="100">
+<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="100">
 </p>
